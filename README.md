@@ -34,9 +34,8 @@ README.md   → Este archivo
 | 🟢 Verde (Relajado) | Potencia Alfa ↑ y LF/HF ↓ |
 | 🔴 Rojo (Estresado) | Potencia Alfa ↓ y LF/HF ↑ |
 
-## Capturas de pantalla
-*(Agregar capturas de la GUI en funcionamiento)*
 
 ## Autores
-Equipo — Ingeniería Biomédica
+Humberto Alonso Rodríguez Paredes
+Sergio Daniel Salamanca Hernández
 
