@@ -36,6 +36,6 @@ README.md   → Este archivo
 
 
 ## Autores
-Humberto Alonso Rodríguez Paredes
+Humberto Alonso Rodríguez Paredes,
 Sergio Daniel Salamanca Hernández
 
